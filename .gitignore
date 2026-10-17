@@ -1,0 +1,5 @@
+.venv/
+__pycache__/
+firmware/build/
+web/music.mp3
+*.mp3
